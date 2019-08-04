@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "467634397424",
+    "firebase_url": "https://cnapp-a3d6d.firebaseio.com",
+    "project_id": "cnapp-a3d6d",
+    "storage_bucket": "cnapp-a3d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467634397424:android:7531d918a982554d",
+        "android_client_info": {
+          "package_name": "com.dummies.shantam.cnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467634397424-uet1o5hpbah47gvk1eopl6qcf265gsdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dummies.shantam.cnapp",
+            "certificate_hash": "92d2902265eddb8f4ef8b236dd6db7b6b3ee5752"
+          }
+        },
+        {
+          "client_id": "467634397424-du3bh9kov2p91k1ihd2vgeuli76ug5om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjArbkRoeMWABPfIZLaiwXJ8ZALxxTBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467634397424-du3bh9kov2p91k1ihd2vgeuli76ug5om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
